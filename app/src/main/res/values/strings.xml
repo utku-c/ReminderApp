@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hatırlatıcım</string>
+    <string name="kullanici_ad">Kullanıcı adı</string>
+    <string name="beni_hatirla">Beni Hatırla</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="devam_et">Devam Et</string>
+    <string name="uyanma_vakti">Uyanma Vakti</string>
+    <string name="secilmedi">Seçilmedi</string>
+</resources>

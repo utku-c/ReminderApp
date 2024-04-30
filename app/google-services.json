@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661733836105",
+    "project_id": "reminderapplication-76e74",
+    "storage_bucket": "reminderapplication-76e74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661733836105:android:28e9dea60764c91c658698",
+        "android_client_info": {
+          "package_name": "com.biitutku.reminderapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF5xXK_qh4RnBrLBQtd6BqR2apyAtjteI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
